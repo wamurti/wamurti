@@ -6,7 +6,7 @@ Hi there and welcome to my Github 👋
 
 * Studying Software development IoT and Embedded Systems at Nackademin
 * Tinkering with ESP, HomeAssistant, Raspberries and Arduinos
-* Proficient in:
+* Knowledge in:
 
 <dl>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
@@ -17,7 +17,7 @@ Hi there and welcome to my Github 👋
   
 </dl>
 
-## Looking for a LIA-Internship right now!
+## Looking for a Internship right now!
 
 <p>
   <br>
