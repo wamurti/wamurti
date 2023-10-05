@@ -6,14 +6,15 @@ Hi there and welcome to my Github 👋
 
 * Studying Software development IoT and Embedded Systems at Nackademin
 * Tinkering with ESP, HomeAssistant, Raspberries and Arduinos
-* Love programming:
+* Proficient in:
 
 <dl>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Swift" alt="Swift" width="40" height="40"/>
+  
 </dl>
 
 ## Looking for a LIA-Internship right now!
