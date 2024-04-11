@@ -4,7 +4,7 @@ Hi there and welcome to my Github 👋
 
 # About me
 
-* Studying Software development IoT and Embedded Systems at Nackademin
+* Studying Software development IoT and Embedded Systems
 * Tinkering with ESP, HomeAssistant, Raspberries and Arduinos
 * Junior level knowledge in:
 
